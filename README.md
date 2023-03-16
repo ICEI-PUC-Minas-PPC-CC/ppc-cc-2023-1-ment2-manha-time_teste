@@ -1,4 +1,4 @@
-# XXXXXXXXXXXXXXXXXXXXXXX
+# TÍTULO DO PROJETO XXXXXX
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -13,7 +13,7 @@
 
 ## Professor
 
-- Mestre Yoda
+- Luciana De Nardin
 
 # Documentação
 
